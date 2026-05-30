@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-30",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/g289c462275d79b8044a29a19fcb75d7839f4ba33338abff3847ee4b7951e6b4764e1f07adbf11075e2a6ec430cb44e60_640.jpg"
+    },
+    {
       "slug": "baccarat-house-edge-rules-math",
       "title": "百家樂莊家優勢成因解析：補牌規則與數學期望值研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "{",
       "imageUrl": "https://pixabay.com/get/gc85b1f1eab5f24bea5d7a9ecbc4897ad0006b18469884009d65afce8f6718a66df4a548a42616b32215c6287c066c34d75cd2a04dd95463af51fab95c5e15197_640.jpg"
-    },
-    {
-      "slug": "baccarat-banker-player-odds-math-analysis",
-      "title": "百家樂莊閒勝率數學解析：機率分佈與長期期望值研究",
-      "category": "undefined",
-      "date": "2026-05-29",
-      "excerpt": "我哋賭仔最鍾意研究百家樂，但係你真係識計莊閒勝率背後嘅數？今日就同你一齊拆解！",
-      "imageUrl": "https://pixabay.com/get/gf90449abaa4b8e59ac54f9714e94444ca5ea163f691fab75bd67f41a529edf7b7445ffa7cbc8d7c15341d4e3fa944ed9_640.jpg"
     }
   ]
 }
