@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-30",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/gc85b1f1eab5f24bea5d7a9ecbc4897ad0006b18469884009d65afce8f6718a66df4a548a42616b32215c6287c066c34d75cd2a04dd95463af51fab95c5e15197_640.jpg"
+    },
+    {
       "slug": "baccarat-banker-player-odds-math-analysis",
       "title": "百家樂莊閒勝率數學解析：機率分佈與長期期望值研究",
       "category": "undefined",
