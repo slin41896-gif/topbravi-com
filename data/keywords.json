@@ -39,8 +39,10 @@
       "category": "百家樂",
       "angle": "疑問句型",
       "image_theme": "baccarat stop loss strategy bankroll",
-      "status": "available",
-      "writing_style": "風險管理框架，含百分比設定，850字"
+      "status": "used",
+      "writing_style": "風險管理框架，含百分比設定，850字",
+      "slug": "article",
+      "used_date": "2026-05-30"
     },
     {
       "id": 5,
