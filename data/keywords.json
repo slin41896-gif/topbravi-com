@@ -28,8 +28,10 @@
       "category": "百家樂",
       "angle": "疑問句型",
       "image_theme": "baccarat banker advantage house edge",
-      "status": "available",
-      "writing_style": "機率解釋，含數學推導，900字"
+      "status": "used",
+      "writing_style": "機率解釋，含數學推導，900字",
+      "slug": "baccarat-house-edge-rules-math",
+      "used_date": "2026-05-30"
     },
     {
       "id": 4,
