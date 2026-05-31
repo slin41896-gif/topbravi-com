@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "roulette-martingale-strategy-analysis",
+      "title": "輪盤投注系統有效性研究：馬丁格爾策略的數理分析",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "玩咗咁多年輪盤，係咪成日聽到人講馬丁格爾策略？我以前都信到十足，以為可以穩贏，但現實真係咁美好咩？",
+      "imageUrl": "https://pixabay.com/get/g30030a653e6081b5599b7f014052f972ba95f6fd89a88e3449eb64684703caae317315bd40d18b66f3afc0c9284ca40265186ef12ea9e8b9bf5c466bf1051175_640.jpg"
+    },
+    {
       "slug": "european-vs-american-roulette-odds-analysis",
       "title": "歐式輪盤與美式輪盤之差異比較：規則、賠率與勝率深度分析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "玩百家樂咁多年，你係咪真係識計期望值？今日我哋就用數學角度，睇吓點樣提升你嘅勝算！",
       "imageUrl": "https://pixabay.com/get/g8829195fb350c55a70d2f47d79b75b143f6ae017dc81f18ec8dcbe522d9502bd6019a05f67fe39e5e52166bcbfd874a90c3dc55bf433da421f62650bddcb7cc7_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-30",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/g289c462275d79b8044a29a19fcb75d7839f4ba33338abff3847ee4b7951e6b4764e1f07adbf11075e2a6ec430cb44e60_640.jpg"
     }
   ]
 }
