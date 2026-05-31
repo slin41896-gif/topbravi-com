@@ -50,8 +50,10 @@
       "category": "百家樂",
       "angle": "疑問句型",
       "image_theme": "baccarat expected value calculation formula",
-      "status": "available",
-      "writing_style": "公式推導+範例，950字"
+      "status": "used",
+      "writing_style": "公式推導+範例，950字",
+      "slug": "baccarat-expected-value-calculation",
+      "used_date": "2026-05-31"
     },
     {
       "id": 6,
