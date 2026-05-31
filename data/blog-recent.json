@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "baccarat-expected-value-calculation",
+      "title": "百家樂期望值計算方法：數學模型與賠率結構的系統性分析",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "玩百家樂咁多年，你係咪真係識計期望值？今日我哋就用數學角度，睇吓點樣提升你嘅勝算！",
+      "imageUrl": "https://pixabay.com/get/g8829195fb350c55a70d2f47d79b75b143f6ae017dc81f18ec8dcbe522d9502bd6019a05f67fe39e5e52166bcbfd874a90c3dc55bf433da421f62650bddcb7cc7_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "每次玩百家樂，係咪都覺得莊家好似有特權咁？今日我哋就嚟拆解下呢個謎團！",
       "imageUrl": "https://pixabay.com/get/ga15ac4f01d1a46b32391dd5ca3d6e95355a6de8635c4237885cf14721adc40ca412339b389aa11b51cc0f730a27ab489143c1153f734eefd0c756a24851c6e90_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-30",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/gc85b1f1eab5f24bea5d7a9ecbc4897ad0006b18469884009d65afce8f6718a66df4a548a42616b32215c6287c066c34d75cd2a04dd95463af51fab95c5e15197_640.jpg"
     }
   ]
 }
