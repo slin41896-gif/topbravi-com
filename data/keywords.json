@@ -61,8 +61,10 @@
       "category": "輪盤",
       "angle": "疑問句型",
       "image_theme": "european american roulette difference comparison",
-      "status": "available",
-      "writing_style": "比較分析，含RTP差異表格，900字"
+      "status": "used",
+      "writing_style": "比較分析，含RTP差異表格，900字",
+      "slug": "european-vs-american-roulette-odds-analysis",
+      "used_date": "2026-05-31"
     },
     {
       "id": 7,
