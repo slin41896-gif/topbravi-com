@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "european-vs-american-roulette-odds-analysis",
+      "title": "歐式輪盤與美式輪盤之差異比較：規則、賠率與勝率深度分析",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "玩輪盤咁多年，你係咪都有諗過，歐式同美式輪盤到底差幾遠？我一開始都以為大同小異，但深入研究先發現原來有好多數學秘密！",
+      "imageUrl": "https://pixabay.com/get/g3b55474f64f610d24f7fdd9b6b5f5eb6ff3cea3cab67f09c5e3ab42b6be21107664b57a32f236bd3c2a1a4225dd56ece0dbe244963255bba6ec152a7161b8852_640.jpg"
+    },
+    {
       "slug": "baccarat-expected-value-calculation",
       "title": "百家樂期望值計算方法：數學模型與賠率結構的系統性分析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "{",
       "imageUrl": "https://pixabay.com/get/g289c462275d79b8044a29a19fcb75d7839f4ba33338abff3847ee4b7951e6b4764e1f07adbf11075e2a6ec430cb44e60_640.jpg"
-    },
-    {
-      "slug": "baccarat-house-edge-rules-math",
-      "title": "百家樂莊家優勢成因解析：補牌規則與數學期望值研究",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "每次玩百家樂，係咪都覺得莊家好似有特權咁？今日我哋就嚟拆解下呢個謎團！",
-      "imageUrl": "https://pixabay.com/get/ga15ac4f01d1a46b32391dd5ca3d6e95355a6de8635c4237885cf14721adc40ca412339b389aa11b51cc0f730a27ab489143c1153f734eefd0c756a24851c6e90_640.jpg"
     }
   ]
 }
