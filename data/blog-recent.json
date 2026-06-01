@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "roulette-negative-expected-value-analysis",
+      "title": "輪盤為何長期必輸：從負期望值探討賭場數學優勢本質",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "講到賭場遊戲，我哋好多時都覺得自己可以靠運氣贏錢，但係輪盤呢個遊戲，我真係覺得佢背後有啲嘢，唔係單純靠彩數咁簡單。",
+      "imageUrl": "https://pixabay.com/get/ga7c82e1c697ac98e4b4623123d267d5b3efd3b2e7a59a33b7c67df2803921bdeb7844c841bb3c648207851ca1955270767f5afc871c952832d105744372a49a6_640.jpg"
+    },
+    {
       "slug": "roulette-martingale-strategy-analysis",
       "title": "輪盤投注系統有效性研究：馬丁格爾策略的數理分析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "玩輪盤咁多年，你係咪都有諗過，歐式同美式輪盤到底差幾遠？我一開始都以為大同小異，但深入研究先發現原來有好多數學秘密！",
       "imageUrl": "https://pixabay.com/get/g3b55474f64f610d24f7fdd9b6b5f5eb6ff3cea3cab67f09c5e3ab42b6be21107664b57a32f236bd3c2a1a4225dd56ece0dbe244963255bba6ec152a7161b8852_640.jpg"
-    },
-    {
-      "slug": "baccarat-expected-value-calculation",
-      "title": "百家樂期望值計算方法：數學模型與賠率結構的系統性分析",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "玩百家樂咁多年，你係咪真係識計期望值？今日我哋就用數學角度，睇吓點樣提升你嘅勝算！",
-      "imageUrl": "https://pixabay.com/get/g8829195fb350c55a70d2f47d79b75b143f6ae017dc81f18ec8dcbe522d9502bd6019a05f67fe39e5e52166bcbfd874a90c3dc55bf433da421f62650bddcb7cc7_640.jpg"
     }
   ]
 }
