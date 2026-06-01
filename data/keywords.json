@@ -83,8 +83,10 @@
       "category": "輪盤",
       "angle": "疑問句型",
       "image_theme": "roulette house edge mathematics long term",
-      "status": "available",
-      "writing_style": "數學解釋，中立客觀，850字"
+      "status": "used",
+      "writing_style": "數學解釋，中立客觀，850字",
+      "slug": "roulette-negative-expected-value-analysis",
+      "used_date": "2026-06-01"
     },
     {
       "id": 9,
