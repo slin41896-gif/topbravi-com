@@ -1,28 +1,28 @@
 {
   "articles": [
     {
+      "slug": "blackjack-card-counting-legal-dispute-analysis",
+      "title": "算牌技術在21點賭局中的法律地位與爭議：學術研究綜述",
+      "category": "undefined",
+      "date": "2026-06-02",
+      "excerpt": "講起21點算牌，好多人第一時間就諗起電影情節，覺得好神秘又刺激。究竟呢種技術喺法律上企唔企得住腳，係咪真係犯法呢？我哋一齊探討下！",
+      "imageUrl": "https://pixabay.com/get/g2da672e58d3e0d53c563df70702f593ed0a57716beaaf5b2eead2187c1dae2175ec1068ad81f1aa20531f227afb1ac2739e87df4a56136f8cf705f1834c2d4c5_640.jpg"
+    },
+    {
+      "slug": "blackjack-basic-strategy-guide",
+      "title": "21點基本策略表完整解析：如何依牌面組合做出最優決策",
+      "category": "undefined",
+      "date": "2026-06-02",
+      "excerpt": "玩21點，我哋都想贏多啲，但係有冇一套科學方法？今日就同你揭開基本策略表嘅神秘面紗！",
+      "imageUrl": "https://pixabay.com/get/g82b1cf65cb312936f8c436cddad710b811a29890803762e108412d859da84662fee9deaee8ec0567b2110916a7eb8657_640.jpg"
+    },
+    {
       "slug": "roulette-negative-expected-value-analysis",
       "title": "輪盤為何長期必輸：從負期望值探討賭場數學優勢本質",
       "category": "undefined",
       "date": "2026-06-01",
       "excerpt": "講到賭場遊戲，我哋好多時都覺得自己可以靠運氣贏錢，但係輪盤呢個遊戲，我真係覺得佢背後有啲嘢，唔係單純靠彩數咁簡單。",
       "imageUrl": "https://pixabay.com/get/ga7c82e1c697ac98e4b4623123d267d5b3efd3b2e7a59a33b7c67df2803921bdeb7844c841bb3c648207851ca1955270767f5afc871c952832d105744372a49a6_640.jpg"
-    },
-    {
-      "slug": "roulette-martingale-strategy-analysis",
-      "title": "輪盤投注系統有效性研究：馬丁格爾策略的數理分析",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "玩咗咁多年輪盤，係咪成日聽到人講馬丁格爾策略？我以前都信到十足，以為可以穩贏，但現實真係咁美好咩？",
-      "imageUrl": "https://pixabay.com/get/g30030a653e6081b5599b7f014052f972ba95f6fd89a88e3449eb64684703caae317315bd40d18b66f3afc0c9284ca40265186ef12ea9e8b9bf5c466bf1051175_640.jpg"
-    },
-    {
-      "slug": "european-vs-american-roulette-odds-analysis",
-      "title": "歐式輪盤與美式輪盤之差異比較：規則、賠率與勝率深度分析",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "玩輪盤咁多年，你係咪都有諗過，歐式同美式輪盤到底差幾遠？我一開始都以為大同小異，但深入研究先發現原來有好多數學秘密！",
-      "imageUrl": "https://pixabay.com/get/g3b55474f64f610d24f7fdd9b6b5f5eb6ff3cea3cab67f09c5e3ab42b6be21107664b57a32f236bd3c2a1a4225dd56ece0dbe244963255bba6ec152a7161b8852_640.jpg"
     }
   ]
 }

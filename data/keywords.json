@@ -94,8 +94,10 @@
       "category": "21點",
       "angle": "疑問句型",
       "image_theme": "blackjack basic strategy card chart",
-      "status": "available",
-      "writing_style": "教學格式，含策略表格圖解，900字"
+      "status": "used",
+      "writing_style": "教學格式，含策略表格圖解，900字",
+      "slug": "blackjack-basic-strategy-guide",
+      "used_date": "2026-06-02"
     },
     {
       "id": 10,
@@ -103,8 +105,10 @@
       "category": "21點",
       "angle": "疑問句型",
       "image_theme": "blackjack card counting legal casino",
-      "status": "available",
-      "writing_style": "法律+技術分析，客觀，800字"
+      "status": "used",
+      "writing_style": "法律+技術分析，客觀，800字",
+      "slug": "blackjack-card-counting-legal-dispute-analysis",
+      "used_date": "2026-06-02"
     },
     {
       "id": 11,
