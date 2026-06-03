@@ -116,8 +116,10 @@
       "category": "荷官技術",
       "angle": "疑問句型",
       "image_theme": "live dealer vs RNG casino comparison",
-      "status": "available",
-      "writing_style": "功能比較，含玩家體驗分析，900字"
+      "status": "used",
+      "writing_style": "功能比較，含玩家體驗分析，900字",
+      "slug": "live-dealer-vs-rng-analysis",
+      "used_date": "2026-06-02"
     },
     {
       "id": 12,
@@ -125,8 +127,10 @@
       "category": "荷官技術",
       "angle": "疑問句型",
       "image_theme": "live casino streaming quality assessment",
-      "status": "available",
-      "writing_style": "技術評測角度，含指標清單，850字"
+      "status": "used",
+      "writing_style": "技術評測角度，含指標清單，850字",
+      "slug": "article",
+      "used_date": "2026-06-03"
     },
     {
       "id": 13,
@@ -134,8 +138,10 @@
       "category": "百家樂",
       "angle": "疑問句型",
       "image_theme": "live baccarat table selection criteria",
-      "status": "available",
-      "writing_style": "選擇指南，含最低注額說明，900字"
+      "status": "used",
+      "writing_style": "選擇指南，含最低注額說明，900字",
+      "slug": "live-baccarat-table-selection-guide",
+      "used_date": "2026-06-03"
     },
     {
       "id": 14,
